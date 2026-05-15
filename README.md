@@ -1,3 +1,12 @@
+<img width="575" height="407" alt="SS1" src="https://github.com/user-attachments/assets/da93c4ac-ddcd-412d-b4ee-c3735e4cfac7" />
+<img width="523" height="425" alt="SS3" src="https://github.com/user-attachments/assets/f83ff218-20c3-4b0e-924b-eb240ae47745" />
+<img width="951" height="445" alt="SS4" src="https://github.com/user-attachments/assets/2dff74fe-f61e-4860-9676-5f929f046777" />
+<img width="681" height="434" alt="SS5" src="https://github.com/user-attachments/assets/175fb6d2-931f-4c17-bdbd-3b98a53ad5bf" />
+<img width="957" height="438" alt="SS6" src="https://github.com/user-attachments/assets/c6843c14-47fb-4900-a79a-45a25e4a91e2" />
+<img width="949" height="437" alt="SS7" src="https://github.com/user-attachments/assets/ef3842b8-0ff4-406b-9072-e08f62cdb720" />
+<img width="954" height="443" alt="SS8" src="https://github.com/user-attachments/assets/1529ed98-770c-4591-9c73-bec576a8bdb3" />
+<img width="956" height="434" alt="SS9" src="https://github.com/user-attachments/assets/dfda2cf4-c0c3-4ef1-b26d-6c8ff4a4d30f" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
